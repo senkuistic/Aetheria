@@ -1,0 +1,8 @@
+
+streamlit==1.66.1
+pandas==2.2.3
+numpy
+scipy
+matplotlib
+plotly
+requests
